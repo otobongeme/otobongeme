@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @otobongeme
 - 👀 I’m interested in web development and other tech related stuffs
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on web developers and other tech genuses 
+- 💞️ I’m looking to collaborate with web developers and other tech genuses 
 - 📫 How to reach me otobongbrain@gmail.com
 
 <!---
